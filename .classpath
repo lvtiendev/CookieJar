@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="External Library/JNativeHook/jar/JNativeHook.jar"/>
+	<classpathentry kind="lib" path="External Library/joda-time-2.1/joda-time-2.1.jar"/>
+	<classpathentry kind="lib" path="External Library/natty-depedencies/antlr-3.2.jar"/>
+	<classpathentry kind="lib" path="External Library/natty-depedencies/backport-util-concurrent-3.1.jar"/>
+	<classpathentry kind="lib" path="External Library/natty-depedencies/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="External Library/natty-depedencies/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="External Library/natty-depedencies/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="External Library/natty-depedencies/groovy-all-1.8.5.jar"/>
+	<classpathentry kind="lib" path="External Library/natty-depedencies/ical4j-1.0.3.jar"/>
+	<classpathentry kind="lib" path="External Library/natty-depedencies/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="External Library/natty-depedencies/natty-modified.jar"/>
+	<classpathentry kind="lib" path="External Library/natty-depedencies/quartz-1.8.4.jar"/>
+	<classpathentry kind="lib" path="External Library/natty-depedencies/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
