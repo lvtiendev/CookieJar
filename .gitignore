@@ -12,6 +12,11 @@ nbproject/private/
 *.swp
 *.out
 
+## Eclipse
 .project
-cookiejar.xml
+.settings/
 bin/
+
+## CookieJar
+cookiejar.xml
+cookie.jar
